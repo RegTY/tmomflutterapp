@@ -1,6 +1,6 @@
-# flutterapp
+# TMOM Flutter App
 
-A new Flutter application.
+A temperature sensing app that 
 
 ## Getting Started
 
