@@ -1,16 +1,6 @@
 # TMOM Flutter App
 
-A temperature sensing app that 
+A temperature sensing app in conjunction with a temperature sensing device.
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project aims to create a non-contact temperature device that can be powered and used via a phone or alternatively any USB powered source. By utilizing it with a phone, it allows for more features that are provided by the app such as text to speech feature, or automatic logging to google form.
